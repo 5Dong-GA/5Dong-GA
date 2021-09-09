@@ -13,8 +13,8 @@
 
 
 # :link: My Links
-- My Blog [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://gljhan.tistory.com/)
-- Kaggle [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/fivedongga)
+- [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://gljhan.tistory.com/)
+- [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/fivedongga)
 
 
 # :computer: Algorithm Skill
