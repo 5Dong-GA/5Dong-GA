@@ -1,4 +1,4 @@
-# :skull: Five_Dong_GA 👋
+# :skull: Lee Jung Han (Five_Dong_GA)
 - :school:  2015.03 ~ 2021.02 Inha University Computer Science
 - 💂  2016.04 ~ 2018.01 Auxiliary Police
 - :feet:  2021.07 ~ One step to Data Science
