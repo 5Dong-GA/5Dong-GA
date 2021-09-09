@@ -1,7 +1,8 @@
-### :skull: Five_Dong_GA 👋
-- 2015.03 ~ 2021.02 Inha University Computer Science
-- 2016.04 ~ 2018.01 Auxiliary Police
-- 2021 ~ One step to Data Science
+# :skull: Five_Dong_GA 👋
+- :school: 2015.03 ~ 2021.02 Inha University Computer Science
+- 💂 2016.04 ~ 2018.01 Auxiliary Police
+- :feet: 2021 ~ One step to Data Science
+
 
 # :books: Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
