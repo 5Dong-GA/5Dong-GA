@@ -2,9 +2,8 @@
 - :school:  2015.03 ~ 2021.02 Inha University Computer Science
 - 💂  2016.04 ~ 2018.01 Auxiliary Police
 - 👨‍🏫 2021.06 - Engineer Information Processing certificate acquisition
-- 👨‍🏫 2021.09 - ADsP certificate acquisition
 - :feet:  2021.07 ~ One step to Data Science
-
+- 👨‍🏫 2021.09 - ADsP certificate acquisition
 
 # :books: Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
