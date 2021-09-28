@@ -1,8 +1,8 @@
 # :skull: Lee Jung Han (Five_Dong_GA)
 - :school:  2015.03 ~ 2021.02 Inha University Computer Science
 - 💂  2016.04 ~ 2018.01 Auxiliary Police
-- 👨‍🏫 2021.06 ~ Engineer Information Processing certificate acquisition
-- 👨‍ 2021.09 ~ ADsP certificate acquisition
+- 👨‍🏫 2021.06 - Engineer Information Processing certificate acquisition
+- 👨‍🏫 2021.09 - ADsP certificate acquisition
 - :feet:  2021.07 ~ One step to Data Science
 
 
