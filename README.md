@@ -20,3 +20,5 @@
 
 # :computer: Algorithm Skill
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gljhan)](https://solved.ac/gljhan/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5Dong-GA&count_bg=%23EAE225&title_bg=%23C21212&icon=&icon_color=%23F2F2F2&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
