@@ -4,6 +4,8 @@
 - 👨‍🏫 2021.06 - Engineer Information Processing certificate acquisition
 - :feet:  2021.07 ~ One step to Data Science
 - 👨‍🏫 2021.09 - ADsP certificate acquisition
+- 🏢 2022.01 - DongA-ST (pharmaceutical company)
+- 👨‍🏫 2024.12 - sqlD certificate acquisition
 
 # :books: Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
